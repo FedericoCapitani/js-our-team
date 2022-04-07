@@ -56,17 +56,17 @@ const team = [
 
 var photo_membri = []
 photo_membri[0] = new Image()
-photo_membri[0].src = '../assets/img/new-team-member-04.jpg'
+photo_membri[0].src = './assets/img/new-team-member-04.jpg'
 photo_membri[1] = new Image()
-photo_membri[1].src = '../assets/img/new-team-member-03.jpg'
+photo_membri[1].src = './assets/img/new-team-member-03.jpg'
 photo_membri[2] = new Image()
-photo_membri[2].src = '../assets/img/walter-gordon-office-manager.jpg'
+photo_membri[2].src = './assets/img/walter-gordon-office-manager.jpg'
 photo_membri[3] = new Image()
-photo_membri[3].src = '../assets/img/angela-lopez-social-media-manager.jpg'
+photo_membri[3].src = './assets/img/angela-lopez-social-media-manager.jpg'
 photo_membri[4] = new Image()
-photo_membri[4].src = '../assets/img/wayne-barnett-founder-ceo.jpg'
+photo_membri[4].src = './assets/img/wayne-barnett-founder-ceo.jpg'
 photo_membri[5] = new Image()
-photo_membri[5].src = '../assets/img/barbara-ramos-graphic-designer.jpg'
+photo_membri[5].src = './assets/img/barbara-ramos-graphic-designer.jpg'
 
 console.log(photo_membri);
 console.log('Membri del team:');
